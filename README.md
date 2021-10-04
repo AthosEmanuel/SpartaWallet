@@ -5,6 +5,8 @@ Athos Emanuel
 
 A aplicação e para o gerenciamento de criptomoedas.
 
+## 1. Interfaces
+
 A tela home
   Ela e a tela que explica um pouco do projeto, e o que são criptomedas
 
@@ -26,9 +28,7 @@ A tela de Login
 A tela de cadastro
     E a tela que o usuario realiza seu cadastro  
 
-
-# Explicação dos dados do usuário que sua aplicação armazena e como eles são usados.
-    Serão usados para ele fazer o controle de suas criptomoedas, e salvar seus dados pessoais.
+Serão usados para ele fazer o controle de suas criptomoedas, e salvar seus dados pessoais.
 
 A aplicação é original e não uma cópia da aplicação de um colega ou de uma aplicação já existente? 
   Sim  
