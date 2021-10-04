@@ -1,7 +1,6 @@
 # Sparta Wallet
 
-Sparta Wallet 
-Athos Emanuel
+**Athos Emanuel**
 
 A aplicação e para o gerenciamento de criptomoedas.
 
@@ -28,7 +27,11 @@ A tela de Login
 A tela de cadastro
     E a tela que o usuario realiza seu cadastro  
 
+## 2. Dados do usuário
+
 Serão usados para ele fazer o controle de suas criptomoedas, e salvar seus dados pessoais.
+
+## 3. Checklist de implementação
 
 A aplicação é original e não uma cópia da aplicação de um colega ou de uma aplicação já existente? 
   Sim  
