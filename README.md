@@ -30,20 +30,26 @@ A tela de cadastro
 Explicação dos dados do usuário que sua aplicação armazena e como eles são usados.
     Serão usados para ele fazer o controle de suas criptomoedas, e salvar seus dados pessoais.
 
-
 A aplicação é original e não uma cópia da aplicação de um colega ou de uma aplicação já existente? 
   Sim  
+  
 A aplicação tem pelo menos duas interfaces (telas ou páginas) independentes? 
-  Simm
+  Sim
+  
 A aplicação armazena e usa de forma relevante dados complexos do usuário? 
   Sim
+  
 A aplicação possui um manifesto para instalação no dispositivo do usuário?
   não, pois ela ainda não foi concluida
+  
 A aplicação possui um service worker que permite o funcionamento off-line?
   não, não pois ela não faz sentido ser usada off-line
+  
 O código da minha aplicação possui comentários explicando cada operação?
   sim
+  
 A aplicação está funcionando corretamente?
   não, pois o projeto não foi finalizado
+  
 A aplicação está completa?
   não, a aplicação está em desenvolvimento
