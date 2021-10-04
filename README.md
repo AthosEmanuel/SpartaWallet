@@ -56,3 +56,17 @@ A aplicação está funcionando corretamente?
   
 A aplicação está completa?
   não, a aplicação está em desenvolvimento
+
+
+## 3. Para Rodar o projeto
+
+Para instalar os pacotes para rodar o backend
+
+npm install
+
+Para rodar a aplicação após a instalação dos pacotes
+
+npm start
+
+
+
